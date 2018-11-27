@@ -6,4 +6,4 @@
 - cd into the working directory: `cd v1-extractor`
 - Run `npm install` to install dependencies
 - Copy your `refugee-list.csv` to this working directory
--  Next run `node v1-time-extractor.js > v1-nodes.csv`. This saves all version 1 timestamp in a csv file
+-  Next run `node v1-timestamp-extractor.js > v1-nodes.csv`. This saves all version 1 timestamp in a csv file
